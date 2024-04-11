@@ -1,0 +1,17 @@
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\obj\Debug\net6.0\VentaEntradas.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\obj\Debug\net6.0\VentaEntradas.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\obj\Debug\net6.0\VentaEntradas.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\obj\Debug\net6.0\VentaEntradas.Infraestructure.AssemblyInfo.cs
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\obj\Debug\net6.0\VentaEntradas.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\bin\Debug\net6.0\VentaEntradas.Infraestructure.deps.json
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\bin\Debug\net6.0\VentaEntradas.Infraestructure.dll
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\bin\Debug\net6.0\VentaEntradas.Infraestructure.pdb
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\bin\Debug\net6.0\VentaEntradas.Domain.dll
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\bin\Debug\net6.0\VentaEntradas.Domain.pdb
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\obj\Debug\net6.0\VentaEntradas.Infraestructure.csproj.CopyComplete
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\obj\Debug\net6.0\VentaEntradas.Infraestructure.dll
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\obj\Debug\net6.0\refint\VentaEntradas.Infraestructure.dll
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\obj\Debug\net6.0\VentaEntradas.Infraestructure.pdb
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\obj\Debug\net6.0\ref\VentaEntradas.Infraestructure.dll
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\bin\Debug\net6.0\VentaEntradas.Infraestructure.runtimeconfig.json
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Infraestructure\obj\Debug\net6.0\VentaEntradas.Infraestructure.genruntimeconfig.cache

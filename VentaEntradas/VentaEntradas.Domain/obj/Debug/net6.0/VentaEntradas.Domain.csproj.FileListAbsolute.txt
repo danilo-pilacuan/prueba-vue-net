@@ -1,0 +1,11 @@
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Domain\bin\Debug\net6.0\VentaEntradas.Domain.deps.json
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Domain\bin\Debug\net6.0\VentaEntradas.Domain.dll
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Domain\bin\Debug\net6.0\VentaEntradas.Domain.pdb
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Domain\obj\Debug\net6.0\VentaEntradas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Domain\obj\Debug\net6.0\VentaEntradas.Domain.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Domain\obj\Debug\net6.0\VentaEntradas.Domain.AssemblyInfo.cs
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Domain\obj\Debug\net6.0\VentaEntradas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Domain\obj\Debug\net6.0\VentaEntradas.Domain.dll
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Domain\obj\Debug\net6.0\refint\VentaEntradas.Domain.dll
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Domain\obj\Debug\net6.0\VentaEntradas.Domain.pdb
+C:\Users\danil\source\repos\VentaEntradas\VentaEntradas.Domain\obj\Debug\net6.0\ref\VentaEntradas.Domain.dll

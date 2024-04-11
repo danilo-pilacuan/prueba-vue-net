@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VentaEntradas.HttpApi.props" />
+</Project>

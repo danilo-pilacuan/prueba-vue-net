@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rBiEspxRAprjyfcau2c3HZqF4E55jqnKQfC9tnVLQTs=",
+  "Source": "VentaEntradas.HttpApi",
+  "BasePath": "_content/VentaEntradas.HttpApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
